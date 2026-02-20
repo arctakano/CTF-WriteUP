@@ -15,3 +15,6 @@ Sebelum itu, ada beberapa hal yang dapat anda coba jika merasa kurang yakin, sep
 
 # ⚠️Sensor Kata Sandi
 **Kata sandi sengaja disensor!** Kamu harus pecahkan tantangannya sendiri. percayalah, bakal jauh lebih seru kalau kamu belajar dan menikmati prosesnya sendiri!
+
+
+> note : Baru menyelesaikan sampai level 20, akan update lagi setelah Write Up ini selesai sampai level 20
