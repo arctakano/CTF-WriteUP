@@ -8,7 +8,7 @@ dan kata sandinya `bandit0`. setelah itu, buka halaman [level 0 > 1](https://ove
 - Username : bandit0
 - password : bandit 0
 
-# The Prosess
+## The Prosess
 
 Lakukan koneksi remote dengan menggunakan Protokol [SSH](https://ubuntu.com/server/docs/openssh-server)
 
