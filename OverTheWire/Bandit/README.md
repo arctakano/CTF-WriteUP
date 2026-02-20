@@ -14,4 +14,4 @@ Sebelum itu, ada beberapa hal yang dapat anda coba jika merasa kurang yakin, sep
  - Selain itu, anda juga dapat menggunakan [Google](https://www.google.com/) untuk mencari dan mempelajari cara menggunakannya
 
 # ⚠️Sensor Kata Sandi
-**Kata sandi sengaja disensor!** Kamu harus pecahkan tantangannya sendiri percayalah, bakal jauh lebih seru kalau kamu belajar dan menikmati prosesnya sendiri!
+**Kata sandi sengaja disensor!** Kamu harus pecahkan tantangannya sendiri. percayalah, bakal jauh lebih seru kalau kamu belajar dan menikmati prosesnya sendiri!
