@@ -7,7 +7,7 @@ Level Goal: Kata sandi untuk level berikutnya disimpan dalam file `data.txt` dal
 Langkah pertama adalah melakukan koneksi remote menggunakan protokol SSH ke server OverTheWire.
 
 ```bash
-$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+$ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 
 ### Hint <sup> 💡 </sup>
