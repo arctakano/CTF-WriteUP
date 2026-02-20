@@ -14,7 +14,7 @@ $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 - Karakter  `-` pada awal nama file sering kali disalahartikan oleh shell sebagai flag atau parameter perintah. Hal ini menyebabkan perintah seperti `cat` gagal mengeksekusi file tersebut karena dianggap sebagai argumen yang tidak valid.
 
-Gunakan _path eksplisit_ (absolut atau relatif) agar sistem membacanya sebagai nama file, bukan sebagai argumen perintah.
+Gunakan _path eksplisit_ (absolut atau relatif) agar sistem membacanya sebagai nama file, bukan sebagai argumen perintah:
 
 ```bash
 $ cat ./-
