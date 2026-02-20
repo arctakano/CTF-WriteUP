@@ -8,7 +8,7 @@ Level Goal: Kata sandi untuk level berikutnya tersimpan dalam satu-satunya file 
 Langkah pertama adalah melakukan koneksi remote menggunakan protokol SSH ke server OverTheWire.
 
 ```bash
-$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+$ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ```
 
 Gunakan perintah `file` untuk mengidentifikasi tipe konten dari setiap file dalam direktori:
