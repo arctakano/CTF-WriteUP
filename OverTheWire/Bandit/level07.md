@@ -7,7 +7,7 @@ Level Goal: Kata sandi untuk level berikutnya tersimpan `di suatu tempat di serv
 Langkah pertama adalah melakukan koneksi remote menggunakan protokol SSH ke server OverTheWire.
 
 ```bash
-$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+$ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
 Gunakan pencarian dari direktori root (`/`) dan alihkan pesan error "Permission Denied" agar output tetap bersih:
