@@ -2,6 +2,8 @@
 
 Level Goal: Terdapat 2 file di direktori utama: `passwords.old dan passwords.new`. Kata sandi untuk level berikutnya ada di `passwords.new` dan merupakan satu-satunya baris yang telah diubah antara `passwords.old dan passwords.new`.
 
+**LOGS & FINDINGS<sup> 💡 </sup>:** jika Anda telah menyelesaikan level ini dan melihat ‘Byebye!’ saat mencoba masuk ke bandit18, ini terkait dengan level berikutnya, bandit19.
+
 ## The Prosess
 
 Langkah pertama adalah melakukan koneksi remote menggunakan protokol SSH ke server OverTheWire dengan menggunakan `Private.key` dari level sebelumnya.
