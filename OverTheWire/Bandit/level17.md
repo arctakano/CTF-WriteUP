@@ -27,4 +27,4 @@ Correct!
 $ exit
 ```
 
-> **Note:** untuk `private rsa` bisa disimpan secara local (bandit16) ataupun secara mandiri. setelah itu jangan lupa untuk mengubah izin agar bisa digunakan pada level selanjutnya
+> **Note:** untuk `private rsa` bisa disimpan secara local (bandit16) ataupun secara mandiri. Setelah itu jangan lupa untuk mengubah izin agar bisa digunakan pada level selanjutnya. Contoh pengubahan izin `chmod 600 [file]`
