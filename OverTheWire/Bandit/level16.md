@@ -29,7 +29,7 @@ read R BLOCK
 [Private Key Content]
 ---
 read R BLOCK
-{masukan key dari level sebelumnya}
+{masukan key/password dari level sebelumnya}
 [REDACTED]
 Correct!
 [Top_Secret]
