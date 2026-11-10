@@ -1,6 +1,6 @@
 ## Bandit
 
-Bandit sangat friendly untuk pemula. Permainan ini akan mengajarkan dasar-dasar yang sangat dibutuhkan utnuk dapat memainkan tahapan yang lebih menantang.
+Bandit sangat friendly untuk pemula. Permainan ini akan mengajarkan dasar-dasar yang sangat dibutuhkan untuk dapat memainkan tahapan yang lebih menantang.
 
 # Note
 
